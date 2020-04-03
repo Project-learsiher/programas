@@ -1,0 +1,11 @@
+
+print("\n")
+print('________________________________________')
+print("|                                      |")
+print('|    ¡Bienvenido a LUBUNTU bitches!    |')
+print("|                                      |")
+print("|  Esta: \" \" es una forma de imprimir  |")
+print('|        Esta: \' \' es otra forma       |')
+print("|                                      |")
+print("|______________________________________|")
+print("\n")
