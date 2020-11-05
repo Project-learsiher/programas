@@ -2,7 +2,7 @@
 print("\n")
 print('________________________________________')
 print("|                                      |")
-print('|    ¡Bienvenido a LUBUNTU bitches!    |')
+print('|        ¡Bienvenido a LUBUNTU!        |')
 print("|                                      |")
 print("|  Esta: \" \" es una forma de imprimir  |")
 print('|        Esta: \' \' es otra forma       |')
